@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Michel Nassar from Lebanon
-I'm a physics graduate then I found out that what really interests me is creating something new, so I started studying HTML CSS and JS on youtube, freecodecamp channel
-I have done one website till now, which is a portfolio for my brother
-michelnassar371@gmail.com  if you want to reach me
+Results-driven computer science student from the Lebanese Univeristy
+passionate about developing user-friendly website applications. Excellent
+problem-solving skills and ability to perform well in a team. Seeking to help
+you develop your websites,secure your networks, as well as grow and
+develop his own skills as a coder and as cyber securitist
