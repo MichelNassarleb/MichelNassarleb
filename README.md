@@ -25,14 +25,3 @@
   <a href="https://github.com/KarlGNassar">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MichelNassarleb&theme=radical&background=0d1117&border=666">
   </a>
-  <br>
-  <a href="https://github.com/KarlGNassar">
-    <img src="https://activity-graph.herokuapp.com/graph?username=MichelNassarleb&theme=react-dark&hide_border=true">
-  </a>
-</p>
-
-<br>
-<br>
-<!-- <a href="https://github.com/MichelNassarleb">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MichelNassarleb.MichelNassarleb&style=for-the-badge">
-<a> -->
