@@ -26,9 +26,4 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MichelNassarleb&theme=midnight-purple&background=0d1117&border=666">
   </a>
   </p>
-<p align="center">
-  <a href="https://github.com/MichelNassarLeb">
-    <img src="https://github.com/MichelNassarLeb/github-readme-stats)
-&theme=midnight-purple&background=0d1117&border=666">
-  </a>
-  </p>
+
