@@ -14,7 +14,7 @@
   </div>
   <br>
   <div>
-    <a href="https://github.com/KarlGNassar">
+    <a href="https://github.com/MichelNassarLeb">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelNassarleb&layout=compact&theme=midnight-purple" />
     </a>
   </div>
@@ -22,7 +22,7 @@
 
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
-  <a href="https://github.com/KarlGNassar">
+  <a href="https://github.com/MichelNassarLeb">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MichelNassarleb&theme=midnight-purple&background=0d1117&border=666">
   </a>
   </p>
