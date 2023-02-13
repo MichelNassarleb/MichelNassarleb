@@ -23,6 +23,6 @@
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://github.com/MichelNassarLeb">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MichelnassarLeb&theme=midnight-purple&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MichelnassarLeb&theme=midnight-purple&background=0d1117&border=66">
   </a>
   </p>
