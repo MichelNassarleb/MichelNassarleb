@@ -28,4 +28,12 @@
   ![LeetCode Stats](https://leetcode.card.workers.dev/MichelnassarLeb?theme=dark&font=baloo&extension=null)
   </p>
   
+  
+  <h1 align="center"> 🔥 LeetCode stats: </h1>
+  <p align="center">
+  <a href="https://github.com/MichelNassarLeb">
+    <img src="https://leetcode.card.workers.dev/MichelnassarLeb?theme=dark&font=baloo&extension=null">
+  </a>
+  </p>
+  
 Enjoy 😄
