@@ -19,19 +19,17 @@
     </a>
   </div>
 </div>
+ <h1 align="center"> :shipit: LeetCode stats: </h1>
+  <p align="center">
+  <a href="https://github.com/MichelNassarLeb">
+    <img src="https://leetcode.card.workers.dev/MichelnassarLeb?theme=dark&font=baloo&extension=null">
+  </a>
+  </p>
 
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://github.com/MichelNassarLeb">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MichelnassarLeb&theme=midnight-purple&background=0d1117&border=66">
-  </a>
-  </p>
-  
-  
-  <h1 align="center"> 🔥 LeetCode stats: </h1>
-  <p align="center">
-  <a href="https://github.com/MichelNassarLeb">
-    <img src="https://leetcode.card.workers.dev/MichelnassarLeb?theme=dark&font=baloo&extension=null">
   </a>
   </p>
   
