@@ -25,7 +25,6 @@
   <a href="https://github.com/MichelNassarLeb">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MichelnassarLeb&theme=midnight-purple&background=0d1117&border=66">
   </a>
-  ![LeetCode Stats](https://leetcode.card.workers.dev/MichelnassarLeb?theme=dark&font=baloo&extension=null)
   </p>
   
   
