@@ -22,7 +22,7 @@
  <h1 align="center"> :shipit: LeetCode stats: </h1>
   <p align="center">
   <a href="https://github.com/MichelNassarLeb">
-    <img src="https://leetcode.card.workers.dev/MichelnassarLeb?theme=dark&font=baloo&extension=null">
+    <img src="https://leetcode.card.workers.dev/MichelnassarLeb?theme=unicorn&font=baloo&extension=null">
   </a>
   </p>
 
