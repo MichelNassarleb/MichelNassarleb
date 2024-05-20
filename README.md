@@ -1,6 +1,6 @@
-<h1>
+<h4>
   Note: I've been inactive on this accounts since i was working on two projects for a really long time, on bitbucket and on my full time job github
-</h1>
+</h4>
 <h1 align="center">
   <a href="https://github.com/MichelNassarleb">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+it's+Michel!;Welcome+to+my+profile!&center=true&size=27">
