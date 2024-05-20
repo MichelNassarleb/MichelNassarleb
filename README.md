@@ -1,3 +1,6 @@
+<h1>
+  Note: I've been inactive on this accounts since i was working on two projects for a really long time, on bitbucket and on my full time job github
+</h1>
 <h1 align="center">
   <a href="https://github.com/MichelNassarleb">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+it's+Michel!;Welcome+to+my+profile!&center=true&size=27">
@@ -34,4 +37,3 @@
   </p>
   
 Enjoy it to the max guys 😄
-Note: I've been inactive on this repo since i was working on two projects for a really long time, on bitbucket and on my full time job github
