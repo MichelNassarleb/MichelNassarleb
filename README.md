@@ -34,3 +34,4 @@
   </p>
   
 Enjoy it to the max guys 😄
+Note: I've been inactive on this repo since i was working on two projects for a really long time, on bitbucket and on my full time job github
